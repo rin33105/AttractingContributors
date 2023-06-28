@@ -20,3 +20,4 @@ To complete the assignment, please do the following:
 - Game
 - table tennis
 - Figure Skating
+- Running
