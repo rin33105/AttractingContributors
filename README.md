@@ -19,3 +19,4 @@ To complete the assignment, please do the following:
 # List of Hobby
 - Game
 - table tennis
+- Figure Skating
