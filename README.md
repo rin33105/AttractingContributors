@@ -22,5 +22,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
 
+
 #List of Vtubers
 1. ShibuyaHAL
+2. A.I.
