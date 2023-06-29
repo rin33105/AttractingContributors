@@ -23,3 +23,4 @@ To complete the assignment, please do the following:
 - Figure Skating
 - Running
 - make something
+- Playing the flute
